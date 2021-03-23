@@ -23,7 +23,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <org.jboss.byteman.version>3.0.10</org.jboss.byteman.version>
-        <junit.junit.version>4.12</junit.junit.version>
+        <junit.junit.version>4.13.1</junit.junit.version>
     </properties>
 
     <dependencies>
